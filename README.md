@@ -1,6 +1,8 @@
 # Pomodoro-Timer
 O site ajuda o estudante a focar nos seus afazeres por meio da tecnica pomodoro -> Consiste em 4 sprints de 25min de estudo intercalados por 5 minutos de descanso. No 4o sprint o descanso é de 20 min. (ciclo)
 
+link para teste: https://myceliumbrain.github.io/Pomodoro-Timer/
+
 tecnologias usadas: HTML, CSS e Java Script :)
 
 ![Pomodoro_timer_view](https://user-images.githubusercontent.com/92963709/138574121-30d15b37-6358-4d4c-85e4-506a386fefb8.PNG)
